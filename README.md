@@ -16,3 +16,7 @@ Ajout d'un input:hover (quand la souris survole la zone input, le background cha
 
 Fichier css et html joint (suppression des anciennes versions demain dans la journé)
 Dodo (j'y suis depuis 17 heures).
+
+Modification des fichiers html, css, php....Fonctionnait bien en local mais lors de la mise sur site, pas de Css.
+
+Donc redépot des dossiers aprés solution validée.
